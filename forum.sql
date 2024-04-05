@@ -15,12 +15,6 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
-CREATE DATABASE forum;
-create user 'pthorsten'@'localhost' identified by 'SubsidingPampers';
-grant all privileges on forum.* to 'pthorsten'@'localhost'
-Use forum;
-
-
 --
 -- Table structure for table `categories`
 --
